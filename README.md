@@ -47,7 +47,7 @@
 ---
 
 ### 🏆 Life Motto:
-> *"Upar wala dekhe, tu seekhe, tu faang kare 💸 — duniya bole, yeh toh asli developer hai."*  
+> *"Upar wala dekhe, tu seekhe, tu faang kare 💸 duniya bole, yeh toh asli developer hai."*  
 > – @PradipxDev
 
 ---
