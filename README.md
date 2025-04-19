@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Pradip Mandal</h1>
-<h3 align="center">🚀 Future SDE @ Google | Python Dev | DSA Lover | #PradipxDev</h3>
+<h1 align="center">Hey 👋, I'm Pradip</h1>
+<h3 align="center">🚀 Future SDE | Python Dev | DSA Lover | #PradipxDev</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=500&lines=Coding+My+Way+to+FAANG!;Python+%7C+DSA+%7C+System+Design;30-50+LPA+Dream+Incoming+💸;From+Zero+to+Industry+Hero+%F0%9F%91%BF" />
