@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pradip</h1>
-<h3 align="center">🧠 ML/AI Practitioner | Data Science Learner | #PradipxDev</h3>
+<h3 align="center">🧠 ML/AI Practitioner | Data Science Learner | #Pradip-ml</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=500&lines=On+a+3-Year+ML+Mastery+Journey!;Python+%7C+ML+%7C+AI+%7C+Projects+%F0%9F%9A%80;Target%3A+FAANG+%2B+Top+AI+Companies;Learning+Deep%2C+Building+Real+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;30-50+LPA+Incoming+💸" />
